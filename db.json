@@ -1,0 +1,24 @@
+{
+  "AppData": [
+  {
+    "id": 1,
+    "string1": "some test text",
+    "string2": "Some more test text",
+    "number1": 15,
+    "string3": "Another string",
+    "Rating": 5,
+    "string4": "Anooooother string",
+    "string5": "Our final string"
+    }
+    {
+    "id": 2,
+    "string1": "some test text",
+    "string2": "Some more test text",
+    "number1": 15,
+    "string3": "Another string",
+    "Rating": 5,
+    "string4": "Anooooother string",
+    "string5": "Our final string"
+    }
+  ]
+}
