@@ -40,8 +40,18 @@
     "Interview Rating": "Jon shows a strong willingness to learn and develop himself professionally.",
     "Phase": "Screening"
     },
-        {
+    {
     "id": 5,
+    "Name": "Super",
+    "Surname": "Man",
+    "CST Mark": 35,
+    "CST Comment": "Super has an average grasp of software fundamentals.",
+    "Rating": 1,
+    "Interview Rating": "Super doesn't display much interest in the role.",
+    "Phase": "CEO Interview"
+    },
+        {
+    "id": 6,
     "Name": "Super",
     "Surname": "Man",
     "CST Mark": 35,
