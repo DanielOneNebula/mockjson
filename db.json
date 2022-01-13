@@ -2,53 +2,53 @@
   "ApplicantToolHr": [
   {
     "id": 1,
-    "string1": "Teboho",
-    "string2": "Phofu",
-    "number1": 90,
-    "string3": "Teboho excelled at his work",
+    "Name": "Teboho",
+    "Surname": "Phofu",
+    "CST Mark": 90,
+    "CST Comment": "Teboho excelled at his work",
     "Rating": 5,
-    "string4": "Teboho showed a strong passion for technology and is eager to progress his career.",
-    "string5": "Interview"
+    "Interview Rating": "Teboho showed a strong passion for technology and is eager to progress his career.",
+    "Phase": "Interview"
     },
     {
     "id": 2,
-    "string1": "Armand",
-    "string2": "Van Den Berg",
-    "number1": 80,
-    "string3": "Armand shows great problem solving skills",
+    "Name": "Armand",
+    "Surname": "Van Den Berg",
+    "CST Mark": 80,
+    "CST Comment": "Armand shows great problem solving skills",
     "Rating": 4,
-    "string4": "Armand is eager to learn and has a wide range of interests in tech.",
-    "string5": "Interview"
+    "Interview Rating": "Armand is eager to learn and has a wide range of interests in tech.",
+    "Phase": "Interview"
     },
         {
     "id": 3,
-    "string1": "Daniel",
-    "string2": "Bailie",
-    "number1": 65,
-    "string3": "Daniel shows competency in software development.",
+    "Name": "Daniel",
+    "Surname": "Bailie",
+    "CST Mark": 65,
+    "CST Comment": "Daniel shows competency in software development.",
     "Rating": 3,
-    "string4": "Daniel has potential to become a great asset within the company.",
-    "string5": "Code Submission"
+    "Interview Rating": "Daniel has potential to become a great asset within the company.",
+    "Phase": "Code Submission"
     },
         {
     "id": 4,
-    "string1": "Jon",
-    "string2": "Snow",
-    "number1": 75,
-    "string3": "Jon has a solid understanding of software development and design patterns.",
+    "Name": "Jon",
+    "Surname": "Snow",
+    "CST Mark": 75,
+    "CST Comment": "Jon has a solid understanding of software development and design patterns.",
     "Rating": 4,
-    "string4": "Jon shows a strong willingness to learn and develop himself professionally.",
-    "string5": "Screening"
+    "Interview Rating": "Jon shows a strong willingness to learn and develop himself professionally.",
+    "Phase": "Screening"
     },
         {
     "id": 5,
-    "string1": "Super",
-    "string2": "Man",
-    "number1": 35,
-    "string3": "Super has an average grasp of software fundamentals.",
+    "Name": "Super",
+    "Surname": "Man",
+    "CST Mark": 35,
+    "CST Comment": "Super has an average grasp of software fundamentals.",
     "Rating": 1,
-    "string4": "Super doesn't display much interest in the role.",
-    "string5": "CEO Interview"
+    "Interview Rating": "Super doesn't display much interest in the role.",
+    "Phase": "CEO Interview"
     }
   ]
 }
