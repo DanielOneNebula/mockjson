@@ -57,8 +57,15 @@
     "cst_mark": 35,
     "cst_comment": "Super has an average grasp of software fundamentals.",
     "Rating": 1,
-    "interview_comment": "Super doesn't display much interest in the role.",
+    "interview_comment": "Super doesn't display much interest in the role. He showed low discipline and his appearance was not up to standard. I would not recommend this candidate. No technical skill and no social awareness.",
     "phase": "CEO Interview"
+    }
+  ],
+  "array2":
+  [
+    {
+    "id": 1,
+    "name":"test"
     }
   ]
 }
