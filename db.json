@@ -2,63 +2,63 @@
   "ApplicantToolHr": [
   {
     "id": 1,
-    "Name": "Teboho",
-    "Surname": "Phofu",
-    "CST_Mark": 90,
-    "CST_Comment": "Teboho excelled at his work",
-    "Rating": 5,
-    "Interview Rating": "Teboho showed a strong passion for technology and is eager to progress his career.",
-    "Phase": "Interview"
+    "first_name": "Teboho",
+    "last_name": "Phofu",
+    "cst_mark": 90,
+    "cst_comment": "Teboho excelled at his work",
+    "interview_rating": 5,
+    "interview_comment": "Teboho showed a strong passion for technology and is eager to progress his career.",
+    "phase": "Interview"
     },
     {
     "id": 2,
-    "Name": "Armand",
-    "Surname": "Van Den Berg",
-    "CST_Mark": 80,
-    "CST_Comment": "Armand shows great problem solving skills",
-    "Rating": 4,
-    "Interview Rating": "Armand is eager to learn and has a wide range of interests in tech.",
-    "Phase": "Interview"
+    "first_name": "Armand",
+    "last_name": "Van Den Berg",
+    "cst_mark": 80,
+    "cst_comment": "Armand shows great problem solving skills",
+    "interview_rating": 4,
+    "interview_comment": "Armand is eager to learn and has a wide range of interests in tech.",
+    "phase": "Interview"
     },
         {
     "id": 3,
-    "Name": "Daniel",
-    "Surname": "Bailie",
-    "CST_Mark": 65,
-    "CST_Comment": "Daniel shows competency in software development.",
-    "Rating": 3,
-    "Interview Rating": "Daniel has potential to become a great asset within the company.",
-    "Phase": "Code Submission"
+    "first_name": "Daniel",
+    "last_name": "Bailie",
+    "cst_mark": 65,
+    "cst_comment": "Daniel shows competency in software development.",
+    "interview_rating": 3,
+    "interview_comment": "Daniel has potential to become a great asset within the company.",
+    "phase": "Code Submission"
     },
         {
     "id": 4,
-    "Name": "Jon",
-    "Surname": "Snow",
-    "CST_Mark": 75,
-    "CST_Comment": "Jon has a solid understanding of software development and design patterns.",
-    "Rating": 4,
-    "Interview Rating": "Jon shows a strong willingness to learn and develop himself professionally.",
-    "Phase": "Screening"
+    "first_name": "Jon",
+    "last_name": "Snow",
+    "cst_mark": 75,
+    "cst_comment": "Jon has a solid understanding of software development and design patterns.",
+    "interview_rating": 4,
+    "interview_comment": "Jon shows a strong willingness to learn and develop himself professionally.",
+    "phase": "Screening"
     },
     {
     "id": 5,
-    "Name": "Super",
-    "Surname": "Man",
-    "CST_Mark": 35,
-    "CST_Comment": "Super has an average grasp of software fundamentals.",
-    "Rating": 1,
-    "Interview Rating": "Super doesn't display much interest in the role.",
-    "Phase": "CEO Interview"
+    "first_name": "Super",
+    "last_name": "Man",
+    "cst_mark": 35,
+    "cst_comment": "Super has an average grasp of software fundamentals.",
+    "interview_rating": 1,
+    "interview_comment": "Super doesn't display much interest in the role.",
+    "phase": "CEO Interview"
     },
         {
     "id": 6,
-    "Name": "Super",
-    "Surname": "Man",
-    "CST_Mark": 35,
-    "CST_Comment": "Super has an average grasp of software fundamentals.",
+    "first_name": "Super",
+    "last_name": "Man",
+    "cst_mark": 35,
+    "cst_comment": "Super has an average grasp of software fundamentals.",
     "Rating": 1,
-    "Interview Rating": "Super doesn't display much interest in the role.",
-    "Phase": "CEO Interview"
+    "interview_comment": "Super doesn't display much interest in the role.",
+    "phase": "CEO Interview"
     }
   ]
 }
