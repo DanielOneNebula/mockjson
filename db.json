@@ -61,11 +61,37 @@
     "phase": "CEO Interview"
     }
   ],
-  "array2":
+  "CustomQuestions":
   [
     {
-    "id": 1,
-    "name":"test"
+    "Id": 1,
+    "TheQuestion":"Are you willing to relocate?",
+    "Answer": "Yes",
+    "JobId": 1
+    },
+        {
+    "Id": 2,
+    "TheQuestion":"Can you work remotely?",
+    "Answer": "Yes",
+    "JobId": 1
+    },
+        {
+    "Id": 3,
+    "TheQuestion":"Are you currently a student?",
+    "Answer": "Yes",
+    "JobId": 1
+    },
+        {
+    "Id": 4,
+    "TheQuestion":"Do you have previous developer experience?",
+    "Answer": "No",
+    "JobId": 1
+    },
+        {
+    "Id": 5,
+    "TheQuestion":"Were you referenced by someone at 1Nebula?",
+    "Answer": "Yes",
+    "JobId": 1
     }
   ]
 }
