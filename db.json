@@ -92,6 +92,24 @@
     "TheQuestion":"Were you referenced by someone at 1Nebula?",
     "Answer": "Yes",
     "JobId": 1
+    },
+            {
+    "Id": 6,
+    "TheQuestion":"Do you have experience with C#?",
+    "Answer": "Yes",
+    "JobId": 1
+    },
+            {
+    "Id": 7,
+    "TheQuestion":"Do you have experience with Azure?",
+    "Answer": "No",
+    "JobId": 1
+    },
+            {
+    "Id": 8,
+    "TheQuestion":"Do you have projects we can view on your Github?",
+    "Answer": "Yes",
+    "JobId": 1
     }
   ]
 }
